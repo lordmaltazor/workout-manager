@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "react-native-app",
+    "name": "workout-planner",
+    "description": "A small iOS app for easily making workout splits and getting reminders of todays workout",
     "slug": "react-native-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon.png",    
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
